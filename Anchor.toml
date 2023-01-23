@@ -15,7 +15,7 @@ solana_twitter = "2BDbYV1ocs2S1PsYnd5c5mqtdLWGf5VbCYvf28rs9LGj"
 
 
 [provider]
-cluster = "devnet"
+cluster = "localnet"
 wallet = "/Users/docho/.config/solana/id.json"
 
 [scripts]
